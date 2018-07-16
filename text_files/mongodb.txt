@@ -1,0 +1,15 @@
+after installing mongodb from site.
+
+mongo = mongo shell
+mongod= mongo daemon
+
+run box,
+  services.msc
+
+
+mongodb = schemaless
+mongoose used for making schema
+
+--------------------------
+DB->Table->Rows->Field
+DB->Collection->Documents(JSON format)->Key
